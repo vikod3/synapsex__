@@ -1,0 +1,8 @@
+{
+  "name": "SynapseX",
+  "description": "A pixel-perfect modern glassmorphism header component with responsive behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
